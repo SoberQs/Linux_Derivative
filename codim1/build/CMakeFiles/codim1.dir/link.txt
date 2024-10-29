@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/codim1.dir/codim1.c.o -o codim1  -lblas -llapack -lm 

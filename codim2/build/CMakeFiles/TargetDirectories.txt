@@ -1,0 +1,3 @@
+/home/soberqs/Documents/vscode/Derivative-free-path-following-main/codim2/build/CMakeFiles/codim2.dir
+/home/soberqs/Documents/vscode/Derivative-free-path-following-main/codim2/build/CMakeFiles/edit_cache.dir
+/home/soberqs/Documents/vscode/Derivative-free-path-following-main/codim2/build/CMakeFiles/rebuild_cache.dir
